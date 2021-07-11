@@ -1,7 +1,8 @@
 # STM32F4x
 
-- ARM Cortex-M4 계열의 프로세서를 포함한 뉴클레오보드를 이용
-- C++ 기반의 RTOS인 Mbed-OS 이용
+ARM Cortex-M4 계열의 프로세서를 포함한 뉴클레오보드를 이용
+C++ 기반의 RTOS인 Mbed-OS 이용
+
 프로젝트 시나리오
 1.	터미널을 이용하여 Digital potentiometer의 값을 변화시킨다.
 2.	Digital potentiometer로부터 생성된 전압을 이용하여, 한번에 측정 할 횟수 N을 입력 받는다.
